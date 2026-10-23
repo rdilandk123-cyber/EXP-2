@@ -81,7 +81,7 @@ Tabulation for load Test
 
 Model graph
 
-<img width="515" height="318" alt="image" src="https://github.com/user-attachments/assets/f2bfab58-d066-4b48-bed9-62c1cc3740e9" />
+<img width="515" height="218" alt="image" src="https://github.com/user-attachments/assets/f2bfab58-d066-4b48-bed9-62c1cc3740e9" />
 
 
 
