@@ -60,7 +60,7 @@ Tabulation for Open Circuit Test
 Model graph:
 
 
-<img width="1300" height="493" alt="image" src="https://github.com/user-attachments/assets/31997742-793a-46a6-9bc0-87e00d2be683" />
+<img width="515" height="218" alt="image" src="https://github.com/user-attachments/assets/31997742-793a-46a6-9bc0-87e00d2be683" />
 
 
 
